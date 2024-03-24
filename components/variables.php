@@ -1,0 +1,5 @@
+<?php
+$webname ="DigiShop";
+$page="";
+
+?>
